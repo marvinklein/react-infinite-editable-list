@@ -1,6 +1,6 @@
 {
   "name": "react-infinite-editable-list",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "An infinitely editable list component for React",
   "main": "dist/index.js",
   "scripts": {
@@ -9,9 +9,11 @@
     "start": "webpack --watch",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "bugs": "https://github.com/marvinklein/react-infinite-editable-list",
+  "homepage": "https://github.com/marvinklein/react-infinite-editable-list",
   "repository": {
     "type": "git",
-    "url": "github.com/marvinklein/react-infinite-editable-list"
+    "url": "https://github.com/marvinklein/react-infinite-editable-list"
   },
   "keywords": [
     "react",
